@@ -4,6 +4,7 @@ Locales = {
     ['WEBHOOK_EMBED'] = 'Nouvelle Convocation',
     ['NO_PERMISSION'] = "❌ Vous n'avez pas la permission d'utiliser cette commande.",
     ['BAD_USAGE'] = '⚠️ Usage : /bda [ID DU JOUEUR]',
-    ['SENT'] = '✅ Convocation envoyée à %s',
+    ['SENT'] = 'Notification envoyée au joueur.\nID: %s',
     ['WEBHOOK'] = '> 👤 **De :** %s\n> 🎯 **À :** %s (ID : %s)\n> **License :** %s\n> **Discord :** %s\n> **FiveM :** %s'
+
 }
